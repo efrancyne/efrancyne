@@ -1,4 +1,7 @@
-### Hello there, I'm Elysa :cherries:
+### Olá, eu sou Elysa :cherries:
+### Graduanda em Sistemas de Informação
+
+
 
 <!--
 **efrancyne/efrancyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
