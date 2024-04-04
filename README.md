@@ -1,5 +1,5 @@
 ### Olá, eu sou Elysa :cherries:
-### Graduanda em Sistemas de Informação
+### :computer: Graduanda em Sistemas de Informação
 
 
 
