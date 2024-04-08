@@ -4,7 +4,7 @@
 - :notebook: Graduanda em Sistemas de informação | UFAL
 
 # 💫 About Me:
-🔭 Academica em Sistemas de Informação com aptidão em criar interfaces intuitivas, sempre em busca de aprender novas habilidades a fim de aprimorar minhas habilidades.
+🔭 Acadêmica em Sistemas de Informação com aptidão em criar interfaces intuitivas, estou sempre em busca de aprender novas habilidades a fim de aprimorar minhas habilidades.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elysa-francyne-a38a73248/)
