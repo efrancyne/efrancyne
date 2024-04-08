@@ -1,5 +1,6 @@
 ### :cherries: Olá, eu sou Elysa
-<sub> :computer: Graduanda em Sistemas de Informação </sub>
+---
+<sub> - :computer: Graduanda em Sistemas de Informação </sub>
 
 
 
